@@ -1,7 +1,14 @@
 {
   "name": "byetype",
-  "private": true,
   "version": "1.0.0",
+  "description": "AI-powered voice input tool with Markdown editing",
+  "license": "MIT",
+  "author": "lixiaojie",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lixiaojie001/byetype.git"
+  },
+  "homepage": "https://github.com/lixiaojie001/byetype",
   "type": "module",
   "scripts": {
     "dev": "vite",
